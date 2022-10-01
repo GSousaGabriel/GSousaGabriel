@@ -24,6 +24,7 @@
 <ul>
 <li>
 General Language:
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
 </li>
 <li>

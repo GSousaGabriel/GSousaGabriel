@@ -51,12 +51,18 @@ Tools:
   <img align="center" alt="Gabriel-NPM" height="40" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=dbadad">
   <img align="center" alt="Gabriel-VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 </li>
+  <hr>
+<li>
+Studying: 
+  <img align="center" alt="Gabriel-HTML5" height="40" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Gabriel-CSS3" height="40" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+</li>
 </ul>
 </h3>
 </div>
 <hr>
 <div>
-📞 Contato:
+📞 Contact:
 <br>
 <br>
 <a href="mailto:gabriel@multcont.com"><img alt="Gabriel-Linkedin" height="30" width="30" src="https://icongr.am/fontawesome/envelope-square.svg?size=128&color=ffffff"/></a>

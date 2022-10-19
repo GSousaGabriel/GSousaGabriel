@@ -47,10 +47,13 @@ DataBase:
   <img align="center" alt="Gabriel-MySql" height="40" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=dbadad">
 </li>
 <li>
+DevOps:
+  <img align="center" alt="Gabriel-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>  
+</li>
+<li>
 Tools:
   <img align="center" alt="Gabriel-NPM" height="40" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=dbadad">
   <img align="center" alt="Gabriel-VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-  <img align="center" alt="Gabriel-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>  
 </li>
   <hr>
 <li>

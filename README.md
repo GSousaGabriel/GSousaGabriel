@@ -41,6 +41,7 @@ Front End:
 Back End:
   <img align="center" alt="Gabriel-PHP" height="40" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabriel-Django" height="40" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gabriel-NODEJS" height="40" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
 </li>
 <li>
 DataBase:
@@ -60,8 +61,7 @@ Tools:
   <hr>
 <li>
 Studying: 
-  <img align="center" alt="Gabriel-HTML5" height="40" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabriel-CSS3" height="40" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gabriel-REACT" height="40" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
 </li>
 </ul>
 </h3>

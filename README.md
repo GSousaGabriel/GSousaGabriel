@@ -48,6 +48,7 @@ DataBase:
   <img align="center" alt="Gabriel-MySql" height="40" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=dbadad">
   <img align="center" alt="Gabriel-Postgresql" height="40" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Gabriel-Mongodb" height="40" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Gabriel-Mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </li>
 <li>
 DevOps:

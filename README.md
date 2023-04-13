@@ -26,13 +26,13 @@
 General Language:
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gabriel-Js" height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gabriel-Ts" height="40" width="40" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor"> 
 </li>
 <li>
 Front End: 
   <img align="center" alt="Gabriel-HTML5" height="40" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Gabriel-CSS3" height="40" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabriel-Js" height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabriel-Ts" height="40" width="40" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor"> 
   <img align="center" alt="Gabriel-Angular" height="40" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabriel-Jquery" height="40" width="40" src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=dbadad">
    <img align="center" alt="Gabriel-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>

@@ -35,7 +35,9 @@ Front End:
   <img align="center" alt="Gabriel-CSS3" height="40" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Gabriel-Angular" height="40" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabriel-Jquery" height="40" width="40" src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=dbadad">
-   <img align="center" alt="Gabriel-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+  <img align="center" alt="Gabriel-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+  <img align="center" alt="Gabriel-REACT" height="40" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Gabriel-NEXT" height="40" width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 </li>
 <li>
 Back End:
@@ -62,7 +64,7 @@ Tools:
   <hr>
 <li>
 Studying: 
-  <img align="center" alt="Gabriel-REACT" height="40" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Gabriel-GO" height="40" width="40" src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor">
 </li>
 </ul>
 </h3>
